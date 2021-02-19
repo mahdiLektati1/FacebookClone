@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <a className="link" href="https://icons8.com/icon/uLWV5A9vXIPu/facebook">Facebook icon by Icons8</a>
   </React.StrictMode>,
   document.getElementById('root')
 );
