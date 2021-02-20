@@ -11,7 +11,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+body {
+  zoom: 85%;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.link {
+  display: none;
 }
